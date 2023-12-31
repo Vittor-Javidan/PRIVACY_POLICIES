@@ -1,3 +1,5 @@
+# PRIVACY POLICY
+
 All data collected and permissions needed for the app to work properly is listed bellow:
 
 Access needed:
